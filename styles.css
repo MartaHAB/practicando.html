@@ -67,3 +67,7 @@ button {
     height: 75px;
     background-color: rgb(172, 165, 165);
 }
+
+:hover{
+    background-color: yellowgreen;
+}
