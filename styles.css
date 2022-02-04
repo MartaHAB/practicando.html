@@ -71,3 +71,9 @@ button {
 a:hover{
     background-color: rgb(154, 205, 50);
 }
+li:not(.important) {
+    color: blueviolet;
+}
+.important{
+    font-weight: bold;
+}
