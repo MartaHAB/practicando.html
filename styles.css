@@ -68,6 +68,6 @@ button {
     background-color: rgb(172, 165, 165);
 }
 
-:hover{
-    background-color: yellowgreen;
+a:link:hover {
+    background-color: rgb(154, 205, 50);
 }
